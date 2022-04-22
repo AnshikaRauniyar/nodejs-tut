@@ -1,0 +1,10 @@
+Here, we go : Hi, This is the first text file Hi, This is the second text fileHere, we go : Hi, This is the first text file Hi, This is the second text fileHere, we go : const amount = 12
+
+if(amount<10){
+    console.log("Smaller number")
+}
+else{
+    console.log("Bigger number")
+}
+
+console.log("First Node app !!"); Hi, This is the second text fileHere, we go : Hi, This is the first text file Hi, This is the second text file
